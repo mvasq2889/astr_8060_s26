@@ -13,10 +13,10 @@ Vanderbilt University <br>
 | <ins>January</ins><br> T 6  | <br> Introduction, celestial sphere, coordinates               | <br> [[notes]](./notes/ASTR8060_notes_coordinates.pdf)[[links]](RESOURCES.md#week-1) Chromey Ch. 3 |
 | R 8                         | Coordinates, Time                                              |[[notes]](./notes/ASTR8060_notes_coordinates_time.pdf)[[links]](RESOURCES.md#week-1) Chromey Ch. 3 |
 | T 13                        | HW1 co-working                                                 | |
-| R 15                        | Telescopes, Plate Scale, Sampling                         |[[notes]](./notes/ASTR8060_notes_telescopes_resolution.pdf)[[links]](RESOURCES.md#week-2) Chromey Ch. 5-6|
+| R 15                        | Telescopes                                                     |[[notes]](./notes/ASTR8060_notes_telescopes_resolution.pdf)[[links]](RESOURCES.md#week-2) Chromey Ch. 5-6|
+| T 20                        | Plate Scale, Sampling, Resolution, Atmosphere                  |[[notes]](./notes/ASTR8060_notes_sampling_resolution_atmosphere.pdf)[[links]](RESOURCES.md#week-3) Chromey Ch. 5-6|
+| R 22                        | Flux, Magnitudes                                               |[[notes]](./notes/ASTR8060_notes_flux_mag.pdf)[[links]](RESOURCES.md#week-3) Chromey Ch. 1, 10, 10.8, 11.9|
 <!-- Upcoming activities are commented out
-| T 20                        | Resolution, Atmosphere                                         |[[notes]](./notes/ASTR8060_notes_atmosphere.pdf)[[links]](RESOURCES.md#week-3) Chromey Ch. 5-6|
-| R 22                        | Flux, Magnitudes                                               |[[notes]](./notes/ASTR8060_notes_flux_mag.pdf)[[links]](RESOURCES.md#week-4) Chromey Ch. 1, 10, 10.8, 11.9|
 | T 27                        | Detectors, Statistics                                          |[[notes]](./notes/ASTR8060_notes_detectors_stats.pdf)[[links]](RESOURCES.md#week-4) Chromey Ch. 2,7.3-7.8,8, Howell Ch. 1-2 |
 | R 29                        | Python, setup and flux conversions                             |[[notes]](./notebooks/python_setup.ipynb)[[links]](RESOURCES.md#week-5) [[exercises]](./notebooks/flux_convert.ipynb)|
 | <ins>February</ins><br> T 3                        | Signal to noise                                                |[[notes]](./notes/ASTR8060_notes_SN.pdf)[[links]](RESOURCES.md#week-5) Howell Ch. 4.4 |
@@ -46,6 +46,7 @@ Vanderbilt University <br>
 
 ## Homework
 * [Homework 1](./hw/HW1.pdf) (due 01/20/2026 @ 09:30am CST)
+* [Homework 2](./hw/HW2.pdf) (due 02/03/2026 @ 09:30am CST)
 <!-- Upcoming activities are commented out
 * [Homework 2](./hw/HW2.pdf) (due 02/03/2026 @ 09:30am CST)
 * [Homework 3](./hw/HW3.pdf) (due 02/17/2026 @ 09:30am CST)
