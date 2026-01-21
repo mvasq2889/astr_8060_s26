@@ -17,7 +17,7 @@ Vanderbilt University <br>
 [ThorSky](https://github.com/jrthorstensen/thorsky) <br>
 
 ### Week 3
-[Davis & Scrimgeor (2014)](https://ui.adsabs.harvard.edu/abs/2014MNRAS.442.1117D/abstract) <br>
+[Davis & Scrimgeour (2014)](https://ui.adsabs.harvard.edu/abs/2014MNRAS.442.1117D/abstract) <br>
 [Filter Response Curves](http://svo2.cab.inta-csic.es/theory/fps/) <br>
 
 <!-- Upcoming resources are commented out
