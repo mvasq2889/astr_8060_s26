@@ -13,7 +13,7 @@ Vanderbilt University <br>
 [Equatorial to Galactic coordinate transformation](./docs/leinert98_coordinates.pdf) <br>
 
 ### Week 2
-[Observation planning tool](http://catserver.ing.iac.es/staralt/index.php) <br>
+[Observation planning tool](https://astro.ing.iac.es/staralt/) <br>
 [ThorSky](https://github.com/jrthorstensen/thorsky) <br>
 
 ### Week 3
