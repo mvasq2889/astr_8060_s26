@@ -21,7 +21,7 @@ Vanderbilt University <br>
 | <ins>February</ins><br> T 3 |  <br> Detectors, Statistics                                    |[[notes]](./notes/ASTR8060_notes_detectors_stats.pdf)[[links]](RESOURCES.md#week-5) Chromey Ch. 2,7.3-7.8,8, Howell Ch. 1-2 |
 | R 5                         | Signal to noise                                                |[[notes]](./notes/ASTR8060_notes_SN.pdf)[[links]](RESOURCES.md#week-5) Howell Ch. 4.4 |
 | T 10                        | Photometry: calibration                                        |[[notes]](./notes/ASTR8060_notes_reductions.pdf)[[links]](RESOURCES.md#week-6) Chromey Ch. 9, Howell Ch. 4 |
-| R 12                        | Python and Git                                                 |[[notes]](./notebooks/python_setup.ipynb)[[links]](RESOURCES.md#week-6) [[exercises]](./notebooks/flux_convert.ipynb)|
+| R 12                        | Python and Git                                                 |[[python]](./notebooks/python_setup.ipynb)[[git]](./notebooks/git_primer.ipynb)[[links]](RESOURCES.md#week-6) [[exercises]](./notebooks/flux_convert.ipynb)|
 <!-- Upcoming activities are commented out
 | R 5                         | Python, setup and flux conversions                             |[[notes]](./notebooks/python_setup.ipynb)[[links]](RESOURCES.md#week-5) [[exercises]](./notebooks/flux_convert.ipynb)|
 | R 5                         | Photometry: calibration types                                  |[[notes]](./notes/ASTR8060_notes_reductions.pdf)[[links]](RESOURCES.md#week-6) Chromey Ch. 9, Howell Ch. 4 |
