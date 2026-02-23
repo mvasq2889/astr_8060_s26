@@ -36,10 +36,6 @@ Vanderbilt University <br>
 [STSYNPHOT](https://stsynphot.readthedocs.io/en/latest/) <br>
 [Astropy CCD Reduction and Photometry Guide -- READ THIS!](https://github.com/astropy/ccd-reduction-and-photometry-guide/tree/main) <br>
 
-<!-- Upcoming resources are commented out
-
-
-
 ### Week 8
 [glob](https://docs.python.org/3/library/glob.html) <br>
 [ImageFileCollections](https://ccdproc.readthedocs.io/en/latest/api/ccdproc.ImageFileCollection.html) <br>
@@ -48,6 +44,7 @@ Vanderbilt University <br>
 [astropy models](https://docs.astropy.org/en/stable/modeling/) <br>
 [astropy model tutorial](https://learn.astropy.org/tutorials/Models-Quick-Fit.html) <br>
 
+<!-- Upcoming resources are commented out
 ### Week 9
 [astropy.sigma_clip](https://docs.astropy.org/en/stable/api/astropy.stats.sigma_clip.html) <br>
 [combining flats notebook](https://github.com/astropy/ccd-reduction-and-photometry-guide/blob/main/notebooks/05-04-Combining-flats.ipynb) <br>

@@ -24,6 +24,8 @@ Vanderbilt University <br>
 | R 12                        | Git and Python                                                 |[[git]](./notebooks/git_primer.ipynb)[[links]](RESOURCES.md#week-6) [[exercises]](./notebooks/flux_convert.ipynb)|
 | T 17                        | Python, setup and flux conversions                             |[[python]](./notebooks/python_setup.ipynb)[[links]](RESOURCES.md#week-7) [[exercises]](./notebooks/flux_convert.ipynb)|
 | R 19                        | Computing: image combination                                   |[[notes]](./notebooks/image_combination.ipynb)[[links]](RESOURCES.md#week-7)|
+| T 24                        | Computing: data management                                     |[[notes]](./notebooks/data_management.ipynb)[[links]](RESOURCES.md#week-8)|
+| R 26                        | Computing: overscan subtraction                                |[[notes]](./notebooks/overscan_subtraction.ipynb)[[links]](RESOURCES.md#week-8)|
 <!-- Upcoming activities are commented out
 | R 5                         | Python, setup and flux conversions                             |[[notes]](./notebooks/python_setup.ipynb)[[links]](RESOURCES.md#week-5) [[exercises]](./notebooks/flux_convert.ipynb)|
 | R 5                         | Photometry: calibration types                                  |[[notes]](./notes/ASTR8060_notes_reductions.pdf)[[links]](RESOURCES.md#week-6) Chromey Ch. 9, Howell Ch. 4 |
