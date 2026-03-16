@@ -31,8 +31,8 @@ Vanderbilt University <br>
 | T 10                        | SPRING BREAK                                                   ||
 | R 12                        | SPRING BREAK                                                   ||
 | T 17                        | Computing: apertures                                           |[[notes]](./notes/ASTR8060_notes_apertures.pdf)[[notebook]](./notebooks/apertures.ipynb)[[links]](RESOURCES.md#week-11)|
-| R 19                        | Computing: finding stars                                       |[[notes]](./notebooks/starfinder.ipynb)[[links]](RESOURCES.md#week-11)|
 <!-- Upcoming activities are commented out
+| R 19                        | Computing: finding stars                                       |[[notes]](./notebooks/starfinder.ipynb)[[links]](RESOURCES.md#week-11)|
 | T 24                        | Photometric standards                                          |[[notes]](./notes/ASTR8060_notes_standards.pdf)[[links]](RESOURCES.md#week-12) Chromey Ch. 10 |
 | R 26                        | Observing proposal lab                                         |[[notes]](./notebooks/observing_proposal_preparation.ipynb)[[links]](RESOURCES.md#week-12)|
 | T 31                        | Diffraction and interference                                   |[[notes]](./notes/ASTR8060_notes_diffraction.pdf)[[links]](RESOURCES.md#week-13) Chromey Ch. 11 |
@@ -50,6 +50,7 @@ Vanderbilt University <br>
 * [Homework 2](./hw/HW2.pdf) (due 02/10/2026 @ 09:30am CST; [Solution](./hw/ASTR8060_HW2_solution.pdf)
 * [Homework 3](./hw/HW3.pdf) (due 02/24/2026 @ 09:30am CST)
 * [Homework 4](./hw/HW4.pdf) (due 03/17/2026 @ 09:30am CST)
+* [Homework 5](./hw/HW5.pdf) (due 03/31/2026 @ 09:30am CDT)
 <!-- Upcoming activities are commented out
 * [Homework 2](./hw/HW2.pdf) (due 02/03/2026 @ 09:30am CST)
 * [Homework 3](./hw/HW3.pdf) (due 02/17/2026 @ 09:30am CST)
